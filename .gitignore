@@ -129,9 +129,10 @@ dmypy.json
 .pyre/
 
 # data
+secao2/Machine-Learning-Pipeline-Overview/selected_features.csv
 secao2/Machine-Learning-Pipeline-Overview/houseprice.csv
 secao2/Machine-Learning-Pipeline-Overview/test.csv
-secao2/Machine-Learning-Pipeline-Overview/xtext.csv
+secao2/Machine-Learning-Pipeline-Overview/xtest.csv
 secao2/Machine-Learning-Pipeline-Overview/xtrain.csv
 secao2/Machine-Learning-Pipeline-Overview/venv
 secao2/task/titanic.csv
