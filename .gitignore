@@ -141,4 +141,7 @@ secao4/task/venv
 secao4/task/.ipynb_checkpoints
 secao4/task/titanic.csv
 secao4/Solution
+secao4/task2/__pycache__
+secao4/task2/.ipynb_checkpoints
+secao4/task2/titanic.csv
 
